@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">AdbSwitch</string>
+    <string name="msg_error">Run grant command first!</string>
+    <string name="btn_on" translatable="false">ON</string>
+    <string name="btn_off" translatable="false">OFF</string>
+    <string name="tile_on" translatable="false">ADB：ON</string>
+    <string name="tile_off" translatable="false">ADB：OFF</string>
+</resources>
